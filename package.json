@@ -2,7 +2,7 @@
   "name": "ng-alain-extension-pack",
   "displayName": "NG-ALAIN Extension Pack",
   "description": "Visual Studio Code extensions for Ng-alain Development",
-  "version": "7.0.1",
+  "version": "7.1.0",
   "icon": "ng-alain.png",
   "publisher": "cipchk",
   "repository": {
@@ -32,6 +32,7 @@
     "stringham.move-ts",
     "quicktype.quicktype",
     "christian-kohler.path-intellisense",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "msjsdiag.debugger-for-chrome"
   ]
 }

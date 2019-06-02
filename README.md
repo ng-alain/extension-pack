@@ -49,3 +49,5 @@
     - 美化 Markdown 的 Table
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
     - 高亮 `TODO:`
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+    - Debugger Angular
