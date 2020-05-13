@@ -25,6 +25,7 @@
     - 按 `alt+u` 快速切换 `.ts` 和 `.spec.ts`
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     - [Prettier](https://github.com/prettier/prettier) 代码格式化，ng-alain 内置[配置文件](https://github.com/ng-alain/ng-alain/blob/master/.prettierrc)
+    - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) Less样式格式化
 - [Move TS - Move TypeScript files and update relative imports](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
   - 移动 TypeScript 文件时自动同步更新导入路径
 - [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
