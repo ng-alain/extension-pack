@@ -2,7 +2,7 @@
   "name": "ng-alain-extension-pack",
   "displayName": "NG-ALAIN Extension Pack",
   "description": "Visual Studio Code extensions for Ng-alain Development",
-  "version": "9.1.0",
+  "version": "12.0.0",
   "icon": "ng-alain.png",
   "publisher": "cipchk",
   "repository": {
@@ -20,15 +20,12 @@
   ],
   "extensionPack": [
     "angular.ng-template",
-    "ms-vscode.vscode-typescript-tslint-plugin",
+    "dbaeumer.vscode-eslint",
     "cipchk.ng-zorro-vscode",
     "cipchk.ng-alain-vscode",
     "cyrilletuzi.angular-schematics",
-    "infinity1207.angular2-switcher",
     "esbenp.prettier-vscode",
     "stylelint.vscode-stylelint",
-    "darkriszty.markdown-table-prettify",
-    "stringham.move-ts",
     "Gruntfuggly.todo-tree"
   ]
 }
